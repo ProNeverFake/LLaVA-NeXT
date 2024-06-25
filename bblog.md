@@ -1,0 +1,2 @@
+- 25062024
+    - changed the numpy from 2.0.0 to 1.23.5 to fix the error `could not infer dtype`.
